@@ -1,4 +1,4 @@
-package GUI;
+package maintaincontrolpackage;
 
 //Imports 
 import javax.swing.*;
