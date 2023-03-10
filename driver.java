@@ -1,4 +1,4 @@
-package myFirstPackage;
+package maintaincontrolpackage;
 
 import java.util.Scanner;
 
